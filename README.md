@@ -1,2 +1,1 @@
-# astroshibx
-World first AI Shib COIN
+OpenAI Generated ERC-20
